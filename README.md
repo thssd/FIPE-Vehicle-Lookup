@@ -15,12 +15,19 @@ Aplicação Java desenvolvida com Spring Boot para consultar informações de ve
 ## Funcionalidades 📚
 
 ✔️ Consulta de veículos pela Tabela FIPE
+
 ✔️ Escolha entre carro, moto ou caminhão
+
 ✔️ Listagem de marcas disponíveis
+
 ✔️ Busca de modelos por marca
+
 ✔️ Consulta de preços por ano do veículo
+
 ✔️ Consumo de API REST
+
 ✔️ Conversão e desserialização de JSON para objetos Java
+
 
 ## Conceitos praticados 📖
 
